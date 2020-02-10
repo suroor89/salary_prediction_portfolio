@@ -1,2 +1,5 @@
-# salary_prediction_portfolio
-Examine a set of job postings with salaries and then predict salaries for a new set of job postings.
+# Salary Prediction Portfolio
+Examine a set of job postings with salaries.
+predict salaries for a new set of job postings.
+
+Run model.py first and then app.py 
